@@ -34,7 +34,7 @@ $ chmod +x bitwarden.sh
 $ ./bitwarden.sh install
 ```
 
-The script will ask you to enter your domain name, press Y for SSL, and your email address for SSL. Once it has installed all its files then we have to run the below command
+The script will ask you to enter your domain name, press Y for SSL, and your email address for SSL. Once it has installed all its files then we have to run the command
 ```$ ./bitwarden.sh start```
 
 ### DONE
